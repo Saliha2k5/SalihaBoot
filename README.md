@@ -1,13 +1,13 @@
-# MeerabBot - Personal RAG Chatbot
+# Saliha - Personal RAG Chatbot
 
 ## Student Information
-- **Student Name:** Meerab Kashif
-- **Project Title:** MeerabBot - Personal RAG Chatbot
-- **Chatbot Name:** MeerabBot
+- **Student Name:** Saliha Ramzan
+- **Project Title:** Saliha - Personal RAG Chatbot
+- **Chatbot Name:** SalihaBoot
 - **Course:** Natural Language Processing (CC438)
 
 ## Project Description
-MeerabBot is a RAG-based personal assistant chatbot built using my CV/Resume as the dataset. It answers questions about my background, skills, and experience using Retrieval-Augmented Generation (RAG) pipeline.
+Saliha Ramzan is a RAG-based personal assistant chatbot built using my CV/Resume as the dataset. It answers questions about my background, skills, and experience using Retrieval-Augmented Generation (RAG) pipeline.
 
 ## Deployment Link
 https://meerab-bot-d9tdjqzdqc2dwykcyprnqq.streamlit.app/
