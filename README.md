@@ -10,8 +10,7 @@
 Saliha Ramzan is a RAG-based personal assistant chatbot built using my CV/Resume as the dataset. It answers questions about my background, skills, and experience using Retrieval-Augmented Generation (RAG) pipeline.
 
 ## Deployment Link
-https://meerab-bot-d9tdjqzdqc2dwykcyprnqq.streamlit.app/
-
+https://salihaboot-hn6ubexufqzyu6b4zd7wpp.streamlit.app/
 ## Tech Stack
 - Streamlit (UI)
 - Groq API - LLaMA 3.1 (LLM)
